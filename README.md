@@ -19,4 +19,9 @@
 **Showing graphs**
 
 *In this webapp you can see the amounts of your chats maessages with the help of graph*
+
 *It shows how you were busy on the chat on monthly and weekly basis*
+
+**Showing WordCloud**
+
+*You can see the word cloud of your chat*
