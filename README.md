@@ -14,5 +14,9 @@
 
 *With the help of whats app you can export the chat in the chat you have that option*
 
-**Step 3**
+## Features
 
+**Showing graphs**
+
+*In this webapp you can see the amounts of your chats maessages with the help of graph*
+*It shows how you were busy on the chat on monthly and weekly basis*
