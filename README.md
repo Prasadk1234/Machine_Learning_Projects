@@ -4,7 +4,7 @@
 
 **Step 1**
 
-*If you want to use this web app then you have to run the command called *
+If you want to use this web app then you have to run the command called
 
 <'Streamlit run app.py'>
 
