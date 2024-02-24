@@ -4,7 +4,9 @@
 
 **Step 1**
 
-*If you want to use this web app then you have to run the command called 'Streamlit run app.py'*
+*If you want to use this web app then you have to run the command called *
+
+<'Streamlit run app.py'>
 
 *Firstly you have to install streamlit on your machine here is the command for that 'pip install streamlit'*
 
